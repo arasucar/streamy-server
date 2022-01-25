@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "myStream",
+      "description": "hello world",
+      "id": 1
+    },
+    {
+      "title": "createdStream!!!",
+      "description": "router test",
+      "id": 3
+    },
+    {
+      "title": "cfzxc",
+      "description": "bxcc",
+      "userId": "117282294877185448103",
+      "id": 6
+    },
+    {
+      "title": "medicasimple",
+      "description": "gasfgadsd",
+      "userId": "100935014626375524617",
+      "id": 7
+    },
+    {
+      "title": "gasdsad!!!!",
+      "description": "safsdsafasd",
+      "userId": "117282294877185448103",
+      "id": 8
+    },
+    {
+      "title": "refacor form",
+      "description": "did it complete",
+      "userId": "117282294877185448103",
+      "id": 9
+    }
+  ]
+}
